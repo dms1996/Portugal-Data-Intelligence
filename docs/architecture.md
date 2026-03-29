@@ -245,5 +245,5 @@ The modular architecture supports several natural extensions:
 - **Additional data pillars** (e.g., trade balance, foreign direct investment)
 - **Alternative databases** (PostgreSQL, DuckDB) via connection string change
 - **Real-time data feeds** through API-based extraction
-- **Additional AI models** (e.g., local LLMs, Claude API)
+- **Additional AI models** (e.g., local LLMs, additional API providers)
 - **Web dashboard** using Dash or similar as an alternative to Power BI
